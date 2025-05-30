@@ -32,7 +32,7 @@ const Footer = () => {
           <div className="lg:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
               <MapPin className="h-8 w-8 text-red-500" />
-              <span className="text-2xl font-bold">Singapore Move Navigator</span>
+              <span className="text-2xl font-bold">Next Stop Singapore</span>
             </div>
             <p className="text-gray-400 mb-6 leading-relaxed">
               Your comprehensive guide to moving and living in Singapore. We provide expert advice, 
@@ -41,7 +41,7 @@ const Footer = () => {
             <div className="space-y-2 text-gray-400">
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4" />
-                <span>info@singaporemovenavigator.com</span>
+                <span>info@nextstopsingapore.com</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Phone className="h-4 w-4" />
@@ -73,7 +73,7 @@ const Footer = () => {
         <div className="border-t border-gray-800 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              © 2024 Singapore Move Navigator. All rights reserved.
+              © 2024 Next Stop Singapore. All rights reserved.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <Link to="/privacy" className="text-gray-400 hover:text-white text-sm transition-colors duration-200">

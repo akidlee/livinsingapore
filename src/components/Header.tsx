@@ -20,7 +20,7 @@ const Header = () => {
         <div className="flex justify-between items-center py-4">
           <Link to="/" className="flex items-center space-x-2">
             <MapPin className="h-8 w-8 text-red-600" />
-            <span className="text-2xl font-bold text-gray-900">Singapore Move Navigator</span>
+            <span className="text-2xl font-bold text-gray-900">Next Stop Singapore</span>
           </Link>
 
           {/* Desktop Navigation */}
